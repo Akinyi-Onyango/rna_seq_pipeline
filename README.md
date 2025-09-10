@@ -30,9 +30,15 @@ The workflow is implemented using [Snakemake](https://snakemake.readthedocs.io/e
 
 The original RNA-seq FASTQ files used in this project are not publicly available.  
 However, the pipeline is fully reproducible with any RNA-seq dataset.  
-To test it, you can download a small public dataset from [SRA](https://www.ncbi.nlm.nih.gov/sra) or use your own FASTQ files.  
+To test it, you can download a small public dataset from [SRA](https://www.ncbi.nlm.nih.gov/sra) or use your own FASTQ files.
 
 ---
+
+## Files and Directories
+
+The `data/` and `results/` directories are empty in this repo. 
+They are placeholders to illustrate the pipeline's structure.
+To run the pipeline, add your own FASTQ files and reference genome into `data/`.
 
 ## Results
 
