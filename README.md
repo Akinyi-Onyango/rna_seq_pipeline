@@ -54,5 +54,5 @@ The workflow produces the following key outputs:
 
 Clone this repository:
 ```bash
-git clone https://github.com/Akinyi-Onyango/rna-seq-pipeline.git
-cd rna-seq-pipeline
+git clone https://github.com/Akinyi-Onyango/rna_seq_pipeline.git
+cd rna_seq_pipeline
